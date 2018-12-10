@@ -1,0 +1,28 @@
+body {
+    background: lightsalmon;
+}
+
+#title {
+    max-width: 600px;
+    text-align: center;
+    margin-left: 34%;
+    font-family: oswald;
+    font-size: 48px;
+    border-bottom: 1px solid black;
+
+}
+#game {
+    font-family: Raleway;
+    font-size: 24px;
+    text-align: center;
+}
+#instructions {
+    font-family: Raleway;
+    font-size: 30px;
+    text-align: center;
+  
+}
+#guess-text{
+    text: uppercase;
+}
+
