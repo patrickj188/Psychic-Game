@@ -5,7 +5,7 @@ body {
 #title {
     max-width: 600px;
     text-align: center;
-    margin-left: 34%;
+    margin: 0 auto;
     font-family: oswald;
     font-size: 48px;
     border-bottom: 1px solid black;
